@@ -12,6 +12,7 @@ A responsive Reading List web application built with React and Bulma CSS, featur
 
 
 ##🛠️ Tech Stack
+
 Technology        Purpose
 - React           UI component library       
 - Bulma CSS       Responsive CSS framework
